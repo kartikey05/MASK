@@ -14,7 +14,7 @@ const Header = () => {
           <div className="w-10 h-10 rounded-xl gradient-primary flex items-center justify-center">
             <Users className="w-5 h-5 text-primary-foreground" />
           </div>
-          <span className="font-bold text-xl text-foreground">HelperHub</span>
+          <span className="font-bold text-xl text-foreground">MASK</span>
         </Link>
 
         <nav className="flex items-center gap-2">

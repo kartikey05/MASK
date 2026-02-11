@@ -107,7 +107,7 @@ const AddHelper = () => {
             </div>
             <CardTitle className="text-2xl md:text-3xl font-bold">Add Your Details</CardTitle>
             <CardDescription className="text-base">
-              Fill in your information to get listed on HelperHub
+              Fill in your information to get listed on MASK
             </CardDescription>
           </CardHeader>
           

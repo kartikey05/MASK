@@ -62,7 +62,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border/40 py-8">
         <div className="container text-center text-sm text-muted-foreground">
-          <p>© 2024 HelperHub. Connecting helpers with families.</p>
+          <p>© 2024 MASK. Connecting helpers with families.</p>
         </div>
       </footer>
     </div>
